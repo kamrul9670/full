@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.product {
+  display: inline-block;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+
+ 
+}
+
+.product-price {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.buy-now-button {
+  background-color: #F37254;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.buy-now-button:hover {
+  background-color: #f44336;
+}
